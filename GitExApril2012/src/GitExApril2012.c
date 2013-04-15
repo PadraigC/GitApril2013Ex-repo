@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("Git April 2013 Ex V1"); /* prints Git stuff */
+	puts("Git April 2013 Ex V2"); /* prints Git stuff */
 	return EXIT_SUCCESS;
 }
